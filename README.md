@@ -315,8 +315,16 @@ I'm always excited to collaborate on **AI/ML projects**, discuss **RAG architect
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏁 FOOTER                                                                 -->
+<!-- 🐍 SNAKE & FOOTER                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EwenCheung/EwenCheung/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EwenCheung/EwenCheung/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/EwenCheung/EwenCheung/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 
 <br/>
 
