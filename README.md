@@ -10,7 +10,9 @@
 
 <div align="center">
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=80&lines=Building+Production-Grade+AI+Systems+%F0%9F%9A%80;From+RAG+Pipelines+to+Agentic+AI+%E2%9A%A1;Turning+Ideas+Into+Impact+%F0%9F%92%A1" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=120&lines=Building+Production-Grade+AI+Systems+%F0%9F%9A%80;From+RAG+Pipelines+to+Agentic+AI+%E2%9A%A1;Turning+Ideas+Into+Impact+%F0%9F%92%A1" alt="Typing SVG" /></a>
+
+  <br/>
 
 </div>
 
@@ -44,6 +46,8 @@
 &nbsp;
 
 - 🎓 &nbsp;**Studying:** B.Sc. Computer Science (Honours) @ **NUS** — AI & Algorithms Focus
+- 🧪 &nbsp;**Current:** ML Research Intern @ **NEA / MSS / CCRS** — AI weather forecasting with GNNs & Transformers
+- 📈 &nbsp;**Incoming:** Private Equity Quantitative Strategist Intern @ **GIC** — evaluation pipelines for investment analysis
 - 🔭 &nbsp;**Internship:** AI/ML Engineer @ [V-Key](https://www.v-key.com/) — Building production RAG & LLM systems
 - 🏆 &nbsp;**Achievements:** 2× First Runner-Up & 2× Finalist in National Hackathons
 - 🌟 &nbsp;**Selected for:** Google AI CTO Bootcamp — Advanced AI Systems & Agents
@@ -69,9 +73,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-111827?style=for-the-badge)
+![GNNs](https://img.shields.io/badge/GNNs-6C63FF?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/🦜_LangGraph-2D3748?style=for-the-badge)
 ![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge)
+![Text-to-SQL](https://img.shields.io/badge/Text--to--SQL-0A66C2?style=for-the-badge)
 ![Langfuse](https://img.shields.io/badge/Langfuse-4F46E5?style=for-the-badge)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge)
 
@@ -115,6 +122,43 @@
 <table>
   <tr>
     <td width="120" align="center">
+      <img src="https://img.shields.io/badge/GIC-111827?style=for-the-badge" /><br/>
+      <sub><b>Jul – Dec 2026</b></sub>
+    </td>
+    <td>
+      <h3>Incoming Private Equity Quantitative Strategist Intern</h3>
+      <ul>
+        <li>📈 Selected to build an <b>end-to-end evaluation pipeline</b> for private equity investment analysis</li>
+        <li>🧮 Focused on automating underwriting workflows and generating structured, data-driven investment insights</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Evaluation-6C63FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Private_Equity-111827?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data_Analysis-0A66C2?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="120" align="center">
+      <img src="https://img.shields.io/badge/NEA%20%2F%20CCRS-0A66C2?style=for-the-badge" /><br/>
+      <sub><b>May – Jun 2026</b></sub>
+    </td>
+    <td>
+      <h3>ML Research Intern, Meteorology</h3>
+      <ul>
+        <li>🌦️ Developing an <b>AI-DOP-style observation-to-forecast pipeline</b> using GNN encoders and Transformer latent rollouts</li>
+        <li>⚡ Targeting faster AI inference for meteorological workflows traditionally handled by slower NWP/data-assimilation systems</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/GNNs-6C63FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square" />
+        <img src="https://img.shields.io/badge/Forecasting-0A66C2?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="120" align="center">
       <img src="https://img.shields.io/badge/V--Key-6C63FF?style=for-the-badge" /><br/>
       <sub><b>May – Dec 2025</b></sub>
     </td>
@@ -149,6 +193,36 @@
 <div align="center">
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 Multi-Agent Business Orchestrator</h3>
+<br/>
+<p><b>Business Automation Agent System</b> — Best Project Award</p>
+<p>Led and built a multi-agent system for business communications with RBAC, policy grounding, approval-gated workflows, and task automation. Scored <b>24/25</b> and received Best Project Award in cohort.</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--Agent-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/RBAC-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Approval_Gates-0A66C2?style=flat-square" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🧭 OpenClaw & Cowork</h3>
+<br/>
+<p><b>Autonomous Agent Orchestrator</b> — Self-Directed Project</p>
+<p>Architected a self-hosted AI team with specialised computing, administration, and research agents coordinated by a secretary agent for delegation, inter-agent communication, workflow tracking, and monitoring.</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agent_Orchestration-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Workflow_Tracking-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Monitoring-0A66C2?style=flat-square" />
+</p>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -279,6 +353,8 @@
 🎖️ **Google AI CTO Bootcamp** — Selected Representative
 
 🎯 **Top 1-5%** — NUS CS2109S (Score: 97/100)
+
+🏆 **Best Project Award** — Multi-Agent Business Orchestrator (24/25)
 
 🏫 **NUSSU CommIT** — Training Cell Sub-Committee
 
