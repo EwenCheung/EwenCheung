@@ -23,11 +23,7 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewen-yi-wen-cheung-b77099328/)
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ewen.cheung@u.nus.edu)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EwenCheung)
-  [![Portfolio](https://img.shields.io/badge/Resume-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1LoCBKjvnP9U1JsIsD3ROIU53lgpNUHsj/view?usp=drive_link)
-
-  <img src="https://komarev.com/ghpvc/?username=EwenCheung&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views" />
   
 </div>
 
@@ -382,9 +378,7 @@ I'm always excited to collaborate on **AI/ML projects**, discuss **RAG architect
 
 <br/>
 
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logoColor=white)](mailto:ewen.cheung@u.nus.edu)
 [![Connect on LinkedIn](https://img.shields.io/badge/🔗_Connect-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/ewen-yi-wen-cheung-b77099328/)
-[![View Resume](https://img.shields.io/badge/📄_Resume-6C63FF?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1LoCBKjvnP9U1JsIsD3ROIU53lgpNUHsj/view?usp=drive_link)
 
 </div>
 
