@@ -1,0 +1,75 @@
+<svg width="1100" height="230" viewBox="0 0 1100 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated current focus radar</title>
+  <desc id="desc">A light animated radar showing current focus areas: machine learning foundations, agentic AI, finance AI, hallucination evaluation, and full-stack AI products.</desc>
+  <style>
+    .title { font: 800 18px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #111827; letter-spacing: .08em; }
+    .axis { stroke: #C7D2FE; stroke-width: 1.2; opacity: .95; }
+    .ring { stroke: #A78BFA; stroke-width: 1; fill: none; opacity: .72; }
+    .sweep { transform-origin: 190px 120px; animation: rotate 5.8s linear infinite; }
+    .ping { animation: ping 2.8s ease-in-out infinite; transform-origin: center; }
+    .p2 { animation-delay: .45s; }
+    .p3 { animation-delay: .9s; }
+    .p4 { animation-delay: 1.35s; }
+    .tag { fill: #FFFFFF; stroke: #7C3AED; stroke-width: 1; filter: url(#glow); }
+    .tagText { font: 700 14px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #111827; }
+    .sub { font: 600 11px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #4B5563; }
+    .micro { font: 700 10px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #4338CA; letter-spacing: .12em; }
+    @keyframes rotate { to { transform: rotate(360deg); } }
+    @keyframes ping {
+      0%, 100% { opacity: .78; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.035); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .sweep, .ping { animation: none; }
+    }
+  </style>
+  <defs>
+    <radialGradient id="sweepGrad" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(190 120) rotate(90) scale(92)">
+      <stop stop-color="#7C3AED" stop-opacity=".46"/>
+      <stop offset=".45" stop-color="#7C3AED" stop-opacity=".13"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset=".5" stop-color="#EEF2FF"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-60%" width="140%" height="220%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#8B5CF6" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <rect width="1100" height="230" rx="18" fill="url(#bg)"/>
+  <text x="330" y="50" class="title">CURRENT FOCUS RADAR</text>
+  <text x="330" y="74" class="sub">Learning deeper ML while building reliable applied AI systems</text>
+  <text x="330" y="101" class="micro">LEARNING</text>
+  <text x="330" y="132" class="micro">BUILDING</text>
+  <text x="330" y="163" class="micro">EXPLORING</text>
+  <text x="330" y="194" class="micro">OPEN TO</text>
+
+  <circle class="ring" cx="190" cy="120" r="32"/>
+  <circle class="ring" cx="190" cy="120" r="58"/>
+  <circle class="ring" cx="190" cy="120" r="84"/>
+  <path class="axis" d="M190 36 V204"/>
+  <path class="axis" d="M106 120 H274"/>
+  <path class="axis" d="M131 61 L249 179"/>
+  <path class="axis" d="M249 61 L131 179"/>
+  <path class="sweep" d="M190 120 L190 36 A84 84 0 0 1 268 90 Z" fill="url(#sweepGrad)"/>
+  <circle cx="190" cy="120" r="4" fill="#4F46E5"/>
+
+  <g class="ping">
+    <rect class="tag" x="450" y="86" width="240" height="36" rx="10"/>
+    <text x="570" y="109" text-anchor="middle" class="tagText">Diffusion + CV</text>
+  </g>
+  <g class="ping p2">
+    <rect class="tag" x="720" y="86" width="270" height="36" rx="10"/>
+    <text x="855" y="109" text-anchor="middle" class="tagText">Agent Reliability</text>
+  </g>
+  <g class="ping p3">
+    <rect class="tag" x="450" y="148" width="240" height="36" rx="10"/>
+    <text x="570" y="171" text-anchor="middle" class="tagText">Applied AI Finance</text>
+  </g>
+  <g class="ping p4">
+    <rect class="tag" x="720" y="148" width="270" height="36" rx="10"/>
+    <text x="855" y="171" text-anchor="middle" class="tagText">Hallucination Eval</text>
+  </g>
+</svg>

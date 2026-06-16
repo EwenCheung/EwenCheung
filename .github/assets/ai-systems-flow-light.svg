@@ -1,0 +1,100 @@
+<svg width="1100" height="270" viewBox="0 0 1100 270" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated AI systems pipeline</title>
+  <desc id="desc">A light purple animated flow from data and retrieval through agents, evaluation, product, and impact.</desc>
+  <style>
+    .label { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #111827; letter-spacing: .08em; }
+    .sub { font: 500 11px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #4B5563; letter-spacing: .04em; }
+    .micro { font: 600 10px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #4F46E5; letter-spacing: .12em; }
+    .node { fill: #FFFFFF; stroke: #7C3AED; stroke-width: 1.2; filter: url(#softGlow); }
+    .line-base { stroke: #C7D2FE; stroke-width: 2; opacity: .95; }
+    .line-flow { stroke: url(#flowGradient); stroke-width: 3; stroke-linecap: round; stroke-dasharray: 90 420; animation: dash 3.8s linear infinite; filter: url(#lineGlow); }
+    .pulse { animation: pulse 2.8s ease-in-out infinite; transform-origin: center; }
+    .pulse-delay-1 { animation-delay: .35s; }
+    .pulse-delay-2 { animation-delay: .7s; }
+    .pulse-delay-3 { animation-delay: 1.05s; }
+    .pulse-delay-4 { animation-delay: 1.4s; }
+    .pulse-delay-5 { animation-delay: 1.75s; }
+    .scan { animation: scan 5.6s ease-in-out infinite; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes dash { to { stroke-dashoffset: -510; } }
+    @keyframes pulse {
+      0%, 100% { opacity: .9; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.018); }
+    }
+    @keyframes scan {
+      0%, 100% { transform: translateX(-210px); opacity: 0; }
+      15%, 75% { opacity: .7; }
+      50% { transform: translateX(930px); opacity: .38; }
+    }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .line-flow, .pulse, .scan, .cursor { animation: none; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset=".48" stop-color="#EEF2FF"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <linearGradient id="flowGradient" x1="58" y1="136" x2="1042" y2="136" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0284C7"/>
+      <stop offset=".3" stop-color="#4F46E5"/>
+      <stop offset=".68" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-40%" width="140%" height="180%">
+      <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#8B5CF6" flood-opacity=".2"/>
+    </filter>
+    <filter id="lineGlow" x="-10%" y="-200%" width="120%" height="500%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#7C3AED" flood-opacity=".45"/>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#C7D2FE" stroke-width=".7" opacity=".65"/>
+    </pattern>
+  </defs>
+  <rect width="1100" height="270" rx="18" fill="url(#bg)"/>
+  <rect width="1100" height="270" rx="18" fill="url(#grid)" opacity=".58"/>
+  <rect x="32" y="30" width="1036" height="210" rx="14" fill="#FFFFFF" opacity=".76" stroke="#C7D2FE"/>
+  <rect class="scan" x="0" y="31" width="210" height="208" fill="url(#flowGradient)" opacity=".11"/>
+
+  <text x="56" y="63" class="micro">LIVE SYSTEM MAP</text>
+  <text x="56" y="88" class="label">Software + Data + ML engineered into production workflows<tspan class="cursor">_</tspan></text>
+  <text x="56" y="109" class="sub">RAG, text-to-SQL, agent orchestration, forecasting, evaluation, and product delivery</text>
+
+  <path class="line-base" d="M95 158 H1005"/>
+  <path class="line-flow" d="M95 158 H1005"/>
+
+  <g class="pulse">
+    <rect class="node" x="55" y="131" width="130" height="58" rx="12"/>
+    <text x="120" y="155" text-anchor="middle" class="label">DATA</text>
+    <text x="120" y="175" text-anchor="middle" class="sub">sources + signals</text>
+  </g>
+  <g class="pulse pulse-delay-1">
+    <rect class="node" x="230" y="131" width="130" height="58" rx="12"/>
+    <text x="295" y="155" text-anchor="middle" class="label">RAG</text>
+    <text x="295" y="175" text-anchor="middle" class="sub">grounded retrieval</text>
+  </g>
+  <g class="pulse pulse-delay-2">
+    <rect class="node" x="405" y="131" width="130" height="58" rx="12"/>
+    <text x="470" y="155" text-anchor="middle" class="label">AGENTS</text>
+    <text x="470" y="175" text-anchor="middle" class="sub">tools + policy</text>
+  </g>
+  <g class="pulse pulse-delay-3">
+    <rect class="node" x="580" y="131" width="130" height="58" rx="12"/>
+    <text x="645" y="155" text-anchor="middle" class="label">EVAL</text>
+    <text x="645" y="175" text-anchor="middle" class="sub">quality + safety</text>
+  </g>
+  <g class="pulse pulse-delay-4">
+    <rect class="node" x="755" y="131" width="130" height="58" rx="12"/>
+    <text x="820" y="155" text-anchor="middle" class="label">PRODUCT</text>
+    <text x="820" y="175" text-anchor="middle" class="sub">UX + APIs</text>
+  </g>
+  <g class="pulse pulse-delay-5">
+    <rect class="node" x="930" y="131" width="130" height="58" rx="12"/>
+    <text x="995" y="155" text-anchor="middle" class="label">IMPACT</text>
+    <text x="995" y="175" text-anchor="middle" class="sub">measurable value</text>
+  </g>
+
+  <text x="550" y="224" text-anchor="middle" class="micro">BUILDING RELIABLE AI SYSTEMS FROM RESEARCH IDEAS TO REAL USERS</text>
+</svg>

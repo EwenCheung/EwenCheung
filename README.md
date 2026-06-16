@@ -1,9 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:312e81,75:6d28d9,100:8b5cf6&height=230&section=header&text=Ewen%20Cheung&fontSize=62&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=AI%2FML%20Engineer%20%7C%20Software%20Engineer%20%7C%20NUS%20Computer%20Science&descSize=17&descColor=c4b5fd&descAlignY=55" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:312e81,75:6d28d9,100:8b5cf6&height=230&section=header&text=Ewen%20Cheung&fontSize=62&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=AI%2FML%20Engineer%20%7C%20Software%20Engineer%20%7C%20NUS%20Computer%20Science&descSize=17&descColor=c4b5fd&descAlignY=55" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f8fafc,45:e0e7ff,75:c4b5fd,100:8b5cf6&height=230&section=header&text=Ewen%20Cheung&fontSize=62&fontColor=111827&fontAlignY=34&animation=fadeIn&desc=AI%2FML%20Engineer%20%7C%20Software%20Engineer%20%7C%20NUS%20Computer%20Science&descSize=17&descColor=4f46e5&descAlignY=55" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:312e81,75:6d28d9,100:8b5cf6&height=230&section=header&text=Ewen%20Cheung&fontSize=62&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=AI%2FML%20Engineer%20%7C%20Software%20Engineer%20%7C%20NUS%20Computer%20Science&descSize=17&descColor=c4b5fd&descAlignY=55" alt="Ewen Cheung animated profile banner" />
+</picture>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=920&height=112&lines=Building+enterprise-grade+AI+systems;Engineering+RAG%2C+Text-to-SQL%2C+and+agentic+workflows;Turning+software%2C+data%2C+and+ML+into+usable+products" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=920&height=112&lines=Building+enterprise-grade+AI+systems;Engineering+RAG%2C+Text-to-SQL%2C+and+agentic+workflows;Turning+software%2C+data%2C+and+ML+into+usable+products" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=4F46E5&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=920&height=112&lines=Building+enterprise-grade+AI+systems;Engineering+RAG%2C+Text-to-SQL%2C+and+agentic+workflows;Turning+software%2C+data%2C+and+ML+into+usable+products" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=920&height=112&lines=Building+enterprise-grade+AI+systems;Engineering+RAG%2C+Text-to-SQL%2C+and+agentic+workflows;Turning+software%2C+data%2C+and+ML+into+usable+products" alt="Typing SVG" />
+  </picture>
 </a>
 
 <br/>
@@ -62,7 +70,11 @@ I have built and deployed systems across **RAG**, **text-to-SQL**, **vLLM infere
 <br/>
 <br/>
 
-<img width="100%" src="./.github/assets/ai-systems-flow.svg" alt="Animated AI systems flow from data to retrieval, agents, evaluation, product, and impact" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/ai-systems-flow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./.github/assets/ai-systems-flow-light.svg" />
+  <img width="100%" src="./.github/assets/ai-systems-flow.svg" alt="Animated AI systems flow from data to retrieval, agents, evaluation, product, and impact" />
+</picture>
 
 </div>
 
@@ -74,7 +86,11 @@ I have built and deployed systems across **RAG**, **text-to-SQL**, **vLLM infere
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,c&theme=dark&perline=5" alt="Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,java,c&theme=dark&perline=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,ts,js,java,c&theme=light&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,c&theme=dark&perline=5" alt="Languages" />
+</picture>
 
 <br/>
 <br/>
@@ -83,15 +99,27 @@ I have built and deployed systems across **RAG**, **text-to-SQL**, **vLLM infere
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vercel&theme=dark&perline=6" alt="Frontend" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vercel&theme=dark&perline=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vercel&theme=light&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vercel&theme=dark&perline=6" alt="Frontend" />
+</picture>
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mysql,mongodb,supabase&theme=dark&perline=6" alt="Backend and Databases" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mysql,mongodb,supabase&theme=dark&perline=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mysql,mongodb,supabase&theme=light&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mysql,mongodb,supabase&theme=dark&perline=6" alt="Backend and Databases" />
+</picture>
 
 ### Cloud, DevOps & Tooling
 
-<img src="https://skillicons.dev/icons?i=docker,gcp,azure,aws,git,github&theme=dark&perline=6" alt="Cloud DevOps Tooling" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,gcp,azure,aws,git,github&theme=dark&perline=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,gcp,azure,aws,git,github&theme=light&perline=6" />
+  <img src="https://skillicons.dev/icons?i=docker,gcp,azure,aws,git,github&theme=dark&perline=6" alt="Cloud DevOps Tooling" />
+</picture>
 
 <br/>
 <br/>
@@ -129,7 +157,11 @@ I have built and deployed systems across **RAG**, **text-to-SQL**, **vLLM infere
 
 <div align="center">
 
-<img width="100%" src="./.github/assets/experience-timeline.svg" alt="Animated experience timeline across production AI, weather research, and finance intelligence" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/experience-timeline.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./.github/assets/experience-timeline-light.svg" />
+  <img width="100%" src="./.github/assets/experience-timeline.svg" alt="Animated experience timeline across production AI, weather research, and finance intelligence" />
+</picture>
 
 </div>
 
@@ -383,12 +415,24 @@ This project demonstrates my foundation in software construction before moving d
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=EwenCheung&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c4b5fd" alt="GitHub Stats" />
-<img height="180" src="https://streak-stats.demolab.com?user=EwenCheung&theme=midnight-purple&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=c4b5fd" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=EwenCheung&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c4b5fd" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=EwenCheung&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=4f46e5&icon_color=7c3aed&text_color=111827" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EwenCheung&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c4b5fd" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=EwenCheung&theme=midnight-purple&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=c4b5fd" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=EwenCheung&theme=default&hide_border=true&background=ffffff&ring=7c3aed&fire=7c3aed&currStreakLabel=4f46e5&sideLabels=111827&dates=4b5563&sideNums=111827&currStreakNum=111827" />
+  <img height="180" src="https://streak-stats.demolab.com?user=EwenCheung&theme=midnight-purple&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=c4b5fd" alt="GitHub Streak" />
+</picture>
 
 <br/>
 
-<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwenCheung&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c4b5fd&langs_count=10" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EwenCheung&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c4b5fd&langs_count=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EwenCheung&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=4f46e5&text_color=111827&langs_count=10" />
+  <img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwenCheung&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c4b5fd&langs_count=10" alt="Top Languages" />
+</picture>
 
 </div>
 
@@ -398,7 +442,11 @@ This project demonstrates my foundation in software construction before moving d
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=EwenCheung&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=a78bfa&area=true&area_color=6d28d9" alt="Contribution Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=EwenCheung&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=a78bfa&area=true&area_color=6d28d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=EwenCheung&theme=github-light&hide_border=true&bg_color=ffffff&color=4b5563&line=7c3aed&point=4f46e5&area=true&area_color=c4b5fd" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=EwenCheung&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=a78bfa&area=true&area_color=6d28d9" alt="Contribution Activity Graph" />
+</picture>
 
 </div>
 
@@ -422,7 +470,11 @@ This project demonstrates my foundation in software construction before moving d
 
 <div align="center">
 
-<img width="100%" src="./.github/assets/focus-radar.svg" alt="Animated current focus radar for ML, agentic AI, finance AI, and hallucination evaluation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/focus-radar.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./.github/assets/focus-radar-light.svg" />
+  <img width="100%" src="./.github/assets/focus-radar.svg" alt="Animated current focus radar for ML, agentic AI, finance AI, and hallucination evaluation" />
+</picture>
 
 </div>
 
@@ -474,6 +526,10 @@ Open To:
 
 💡 **_"Coding is the process of building things from 0 to visible."_**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:312e81,75:6d28d9,100:8b5cf6&height=120&section=footer&animation=twinkling" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:312e81,75:6d28d9,100:8b5cf6&height=120&section=footer&animation=twinkling" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f8fafc,45:e0e7ff,75:c4b5fd,100:8b5cf6&height=120&section=footer&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:312e81,75:6d28d9,100:8b5cf6&height=120&section=footer&animation=twinkling" alt="Animated footer wave" />
+</picture>
 
 </div>
