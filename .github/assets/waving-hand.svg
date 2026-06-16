@@ -1,0 +1,44 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Waving hand</title>
+  <desc id="desc">A small animated yellow hand waving hello.</desc>
+  <style>
+    .hand {
+      transform-origin: 42px 54px;
+      animation: wave 1.55s ease-in-out infinite;
+    }
+    .ray {
+      animation: ray 1.55s ease-in-out infinite;
+      transform-origin: center;
+    }
+    .ray.two {
+      animation-delay: .18s;
+    }
+    @keyframes wave {
+      0%, 100% { transform: rotate(-13deg); }
+      15% { transform: rotate(17deg); }
+      30% { transform: rotate(-9deg); }
+      45% { transform: rotate(15deg); }
+      60% { transform: rotate(-5deg); }
+      75% { transform: rotate(10deg); }
+    }
+    @keyframes ray {
+      0%, 100% { opacity: .25; transform: scale(.94); }
+      45% { opacity: .95; transform: scale(1.04); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .hand, .ray { animation: none; }
+    }
+  </style>
+  <path class="ray" d="M8 12 L2 6" stroke="#FCD34D" stroke-width="4" stroke-linecap="round"/>
+  <path class="ray two" d="M15 7 L13 1" stroke="#FCD34D" stroke-width="4" stroke-linecap="round"/>
+  <path class="ray" d="M5 23 L1 22" stroke="#FCD34D" stroke-width="4" stroke-linecap="round"/>
+  <g class="hand">
+    <rect x="16" y="17" width="8" height="28" rx="4" fill="#FBBF24" stroke="#D97706" stroke-width="1.4"/>
+    <rect x="24" y="10" width="8" height="35" rx="4" fill="#FCD34D" stroke="#D97706" stroke-width="1.4"/>
+    <rect x="32" y="12" width="8" height="34" rx="4" fill="#FCD34D" stroke="#D97706" stroke-width="1.4"/>
+    <rect x="40" y="17" width="8" height="30" rx="4" fill="#FBBF24" stroke="#D97706" stroke-width="1.4"/>
+    <path d="M20 35 C15 28 9 29 8 34 C7 38 13 45 18 51 C23 58 31 61 40 59 C49 57 56 50 56 40 L56 30 C56 27 54 25 51 25 C48 25 46 27 46 30 L46 39 L20 35 Z" fill="#FBBF24" stroke="#D97706" stroke-width="1.6" stroke-linejoin="round"/>
+    <path d="M18 50 C24 54 33 55 43 51" stroke="#F59E0B" stroke-width="2" stroke-linecap="round" opacity=".7"/>
+    <path d="M17 36 C20 40 23 42 27 43" stroke="#F59E0B" stroke-width="2" stroke-linecap="round" opacity=".7"/>
+  </g>
+</svg>
