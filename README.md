@@ -1,6 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:312e81,75:6d28d9,100:8b5cf6&height=230&section=header&text=Ewen%20Cheung&fontSize=62&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=AI%2FML%20Engineer%20%7C%20Data%20%26%20Software%20Engineer%20%7C%20NUS%20Computer%20Science&descSize=17&descColor=c4b5fd&descAlignY=55" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ede9fe%2C45:c4b5fd%2C75:a78bfa%2C100:8b5cf6&height=230&section=header&text=Ewen%20Cheung&fontSize=62&fontColor=1e1b4b&fontAlignY=34&animation=fadeIn&desc=AI%2FML%20Engineer%20%7C%20Data%20%26%20Software%20Engineer%20%7C%20NUS%20Computer%20Science&descSize=17&descColor=4c1d95&descAlignY=55" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:312e81,75:6d28d9,100:8b5cf6&height=230&section=header&text=Ewen%20Cheung&fontSize=62&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=AI%2FML%20Engineer%20%7C%20Data%20%26%20Software%20Engineer%20%7C%20NUS%20Computer%20Science&descSize=17&descColor=c4b5fd&descAlignY=55" />
+</picture>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=920&height=112&lines=Incoming+Data+Warehouse+Engineer+Intern+%40+TikTok;Building+agentic+AI%2C+RAG+and+evaluation+systems;Turning+data+and+ML+into+production+systems" alt="Typing SVG" />
@@ -36,7 +39,10 @@ I'm **Ewen**, a **Computer Science (AI) undergraduate at NUS**. I build AI syste
 
 <div align="center">
 <br/>
-<img width="100%" src="./.github/assets/ai-systems-flow.svg" alt="Animated AI systems flow from data to retrieval, agents, evaluation, product, and impact" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./.github/assets/ai-systems-flow-light.svg" />
+  <img width="100%" src="./.github/assets/ai-systems-flow.svg" alt="Animated AI systems flow from data to retrieval, agents, evaluation, product, and impact" />
+</picture>
 </div>
 
 ---
@@ -45,7 +51,10 @@ I'm **Ewen**, a **Computer Science (AI) undergraduate at NUS**. I build AI syste
 
 <div align="center">
 
-<img width="100%" src="./.github/assets/experience-timeline.svg" alt="Animated experience timeline: V-Key, NEA / CCRS, GIC, and incoming TikTok" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./.github/assets/experience-timeline-light.svg" />
+  <img width="100%" src="./.github/assets/experience-timeline.svg" alt="Animated experience timeline: V-Key, NEA / CCRS, GIC, and incoming TikTok" />
+</picture>
 
 </div>
 
@@ -189,17 +198,29 @@ Every piece hand-written in PyTorch: positional encoding, multi-head attention, 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,c&theme=dark" alt="Languages" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Cjava%2Cc&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,c&theme=dark" alt="Languages" />
+</picture>
 
 **Data, Backend & Cloud**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,redis,fastapi,nodejs&theme=dark" alt="Data and Backend" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cmongodb%2Csupabase%2Credis%2Cfastapi%2Cnodejs&theme=light" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,redis,fastapi,nodejs&theme=dark" alt="Data and Backend" />
+</picture>
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,gcp,aws,azure,githubactions,linux&theme=dark" alt="Cloud and DevOps" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker%2Cgcp%2Caws%2Cazure%2Cgithubactions%2Clinux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=docker,gcp,aws,azure,githubactions,linux&theme=dark" alt="Cloud and DevOps" />
+</picture>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vercel&theme=dark" alt="Frontend" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cvercel&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vercel&theme=dark" alt="Frontend" />
+</picture>
 
 </div>
 
@@ -237,8 +258,10 @@ Data Science & AI, Year 1 · *Aug 2024 – Jul 2025* · credits transferred to N
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EwenCheung&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c4b5fd" alt="GitHub Stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=EwenCheung&theme=midnight-purple&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=c4b5fd" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=EwenCheung&theme=default&hide_border=true&background=ffffff&ring=7c3aed&fire=7c3aed&currStreakLabel=6d28d9" />
+  <img height="170" src="https://streak-stats.demolab.com?user=EwenCheung&theme=midnight-purple&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=c4b5fd" alt="GitHub Streak" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EwenCheung/EwenCheung/output/github-snake-dark.svg" />
@@ -257,6 +280,9 @@ Data Science & AI, Year 1 · *Aug 2024 – Jul 2025* · credits transferred to N
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ewen-yi-wen-cheung)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ewen.cheung@u.nus.edu)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:312e81,75:6d28d9,100:8b5cf6&height=120&section=footer&animation=twinkling" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ede9fe%2C45:c4b5fd%2C75:a78bfa%2C100:8b5cf6&height=120&section=footer&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:312e81,75:6d28d9,100:8b5cf6&height=120&section=footer&animation=twinkling" />
+</picture>
 
 </div>
