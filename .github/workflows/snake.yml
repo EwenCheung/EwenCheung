@@ -27,6 +27,11 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      # snk has no speed option (100ms per step); every keyframe is a % of one shared duration,
+      # so halving that duration plays the whole animation 2x faster.
+      - name: Speed up snake 2x
+        run: perl -pi -e 's/(?<=[ :])(\d+)ms\b/int($1\/2)."ms"/ge' dist/*.svg
+
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
