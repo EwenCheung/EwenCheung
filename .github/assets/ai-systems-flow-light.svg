@@ -23,8 +23,8 @@
     }
     @keyframes scan {
       0%, 100% { transform: translateX(-210px); opacity: 0; }
-      15%, 75% { opacity: .9; }
-      50% { transform: translateX(930px); opacity: .55; }
+      15%, 75% { opacity: .35; }
+      50% { transform: translateX(930px); opacity: .2; }
     }
     @keyframes blink { 50% { opacity: 0; } }
     @media (prefers-reduced-motion: reduce) {

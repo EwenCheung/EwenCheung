@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ede9fe%2C45:c4b5fd%2C75:a78bfa%2C100:8b5cf6&height=230&section=header&text=Ewen%20Cheung&fontSize=62&fontColor=1e1b4b&fontAlignY=34&animation=fadeIn&desc=AI%2FML%20Engineer%20%7C%20Data%20%26%20Software%20Engineer%20%7C%20NUS%20Computer%20Science&descSize=17&descColor=4c1d95&descAlignY=55" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:312e81,75:6d28d9,100:8b5cf6&height=230&section=header&text=Ewen%20Cheung&fontSize=62&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=AI%2FML%20Engineer%20%7C%20Data%20%26%20Software%20Engineer%20%7C%20NUS%20Computer%20Science&descSize=17&descColor=c4b5fd&descAlignY=55" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ede9fe%2C45:c4b5fd%2C75:a78bfa%2C100:8b5cf6&height=230&section=header&text=Ewen%20Cheung&fontSize=62&fontColor=1e1b4b&fontAlignY=34&animation=fadeIn&desc=AI%2FML%20Engineer%20%7C%20Data%20and%20Software%20Engineer%20%7C%20NUS%20Computer%20Science&descSize=17&descColor=4c1d95&descAlignY=55" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:312e81,75:6d28d9,100:8b5cf6&height=230&section=header&text=Ewen%20Cheung&fontSize=62&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=AI%2FML%20Engineer%20%7C%20Data%20and%20Software%20Engineer%20%7C%20NUS%20Computer%20Science&descSize=17&descColor=c4b5fd&descAlignY=55" />
 </picture>
 
 <a href="https://git.io/typing-svg">
@@ -109,6 +109,8 @@ Full-stack agentic platform for solo business owners: **LangGraph** supervisor w
 
 **90.9%** verdict accuracy · **0%** hallucinated citations across 104 tests
 
+[Demo video](https://youtu.be/AAmxgg40FW0)
+
 `LangGraph` `FastAPI` `Next.js` `Supabase` `Docker`
 
 </td>
@@ -123,21 +125,11 @@ PyTorch CNN trained from scratch to **100%** accuracy on 30-class tile recogniti
 
 **97/100** (class mean 62.3) · won all 12 evaluation levels
 
+[Demo video](https://youtu.be/OScQm6rDtdM)
+
 `PyTorch` `CNN` `A* search` `scikit-learn`
 
 </td>
-<td width="50%" valign="top">
-
-### 🌦️ [AI-DOP: AI Weather Forecasting](https://github.com/EwenCheung/AI-DOP)
-**Research · NEA / CCRS**
-
-Aardvark-style observation-to-forecast pipeline: encoder / processor / decoder training, end-to-end fine-tuning, WeatherBench-style evaluation, and PBS jobs on HPC.
-
-`PyTorch` `GNNs` `Transformers` `xarray` `MLflow`
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🎓 [NUS Planner](https://github.com/EwenCheung/NUSPlanner)
@@ -150,34 +142,34 @@ Generates constraint-valid 4-year study plans in seconds: prerequisite enforceme
 `TypeScript` `Next.js` `Supabase` `pgvector`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### 🧠 [Transformer from Zero to Hero](https://github.com/EwenCheung/Train-a-transformer-from-zero-to-hero)
-**From-scratch English→Chinese NMT**
+### ⚙️ [SuperConfig](https://github.com/EwenCheung/SuperConfig)
+**AI Hackathon 2025 · Team of 3**
 
-Every piece hand-written in PyTorch: positional encoding, multi-head attention, encoder/decoder blocks, training loop, checkpointing, and BLEU evaluation.
+No-code platform that spins up a personalised AI business agent in under 3 minutes: specialised agents for scheduling, ticketing, knowledge-base search, and daily insights, served over Telegram.
 
-`PyTorch` `Transformers` `NLP`
+[Demo video](https://youtu.be/1rxBVJqMaF0?t=98)
+
+`FastAPI` `Amazon Bedrock` `React` `Telegram Bot API`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 [Passion to Serve Platform](https://github.com/EwenCheung/Team1-NightOwls-PassionToServeUltimateSolution)
+**Code to Give hackathon · Team NightOwls**
+
+Volunteer and beneficiary platform for a nonprofit: events, courses with quizzes and certificates, badges, and an AI teacher service for course chat and auto-generated notes.
+
+[Live demo](https://code-to-give-frontend-omega.vercel.app/)
+
+`Vue` `Express` `FastAPI` `Supabase`
 
 </td>
 </tr>
 </table>
-
-<details>
-<summary><b>More projects</b></summary>
-<br/>
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [SuperConfig](https://github.com/EwenCheung/SuperConfig) | No-code agentic AI configuration platform (SimplifyNext x AWS hackathon) · [demo](https://youtu.be/1rxBVJqMaF0?t=98) | Python, AWS |
-| [Code to Give: NightOwls](https://github.com/EwenCheung/Team1-NightOwls-PassionToServeUltimateSolution) | Learning platform with an AI teacher and AI notes · [live](https://code-to-give-frontend-omega.vercel.app/) | Vue, Express, FastAPI, Supabase |
-| [Startup Hunter](https://github.com/EwenCheung/Startup-Hunter) | Autonomous agent platform that turns market insights into deployed MVPs | Next.js, FastAPI |
-| [NUS MealExchange](https://github.com/EwenCheung/NUS-MealExchange) | Peer-to-peer meal credit marketplace with escrow and real-time chat | React, TypeScript, Supabase |
-| [InternLink](https://github.com/EwenCheung/SC2006-InternLink) | Student internship platform using OneMap and LightCast skills APIs | JavaScript, Node.js |
-| [BTO Management System](https://github.com/EwenCheung/SC2002-BTO-Management-System) | OOP-designed HDB BTO application system | Java |
-| [Dual Defence v3](https://github.com/EwenCheung/Dual-Defence-v3-latest) | Tower-defense game with campaign mode and progression | Python, Pygame |
-
-</details>
 
 ---
 
@@ -232,20 +224,20 @@ Every piece hand-written in PyTorch: positional encoding, multi-head attention, 
 <tr>
 <td width="55%" valign="top">
 
-**National University of Singapore**
+**National University of Singapore**<br/>
 BComp (Hons) Computer Science, Focus Area in AI · *Expected May 2028*
 
-**Nanyang Technological University**
+**Nanyang Technological University**<br/>
 Data Science & AI, Year 1 · *Aug 2024 – Jul 2025* · credits transferred to NUS
 
 </td>
 <td width="45%" valign="top">
 
-🥈 **2x First Runner-Up**, national hackathons
-🏅 **2x Finalist**, national hackathons
-🏆 **Best Project Award**, Multi-Agent Orchestrator
-🎯 **Top 5%**, NUS CS2109S (97/100)
-🎖️ **Google AI CTO Bootcamp**, selected representative
+🥈 **2x First Runner-Up**, national hackathons<br/>
+🏅 **2x Finalist**, national hackathons<br/>
+🏆 **Best Project Award**, Multi-Agent Orchestrator<br/>
+🎯 **Top 5%**, NUS CS2109S (97/100)<br/>
+🎖️ **Google AI CTO Bootcamp**, selected representative<br/>
 🏫 **NUSSU CommIT**, Training Cell Head
 
 </td>

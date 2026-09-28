@@ -2,8 +2,14 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
+    - cron: "0 */6 * * *" # Every 6 hours, so new contributions in any repo show up the same day
+  push:
+    branches: [main] # Regenerate whenever this profile is updated
   workflow_dispatch: # Allows manual trigger
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
 
 jobs:
   generate:
