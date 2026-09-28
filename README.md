@@ -20,7 +20,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewen-yi-wen-cheung)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ewen.cheung@u.nus.edu)
 ![Profile Views](https://komarev.com/ghpvc/?username=EwenCheung&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/EwenCheung?style=for-the-badge&logo=github&color=4F46E5&labelColor=0D1117)
 
@@ -270,7 +269,6 @@ Data Science & AI, Year 1 · *Aug 2024 – Jul 2025* · credits transferred to N
 💡 **_"Coding is the process of building things from 0 to visible."_**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ewen-yi-wen-cheung)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ewen.cheung@u.nus.edu)
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ede9fe%2C45:c4b5fd%2C75:a78bfa%2C100:8b5cf6&height=120&section=footer&animation=twinkling" />
