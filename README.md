@@ -69,7 +69,7 @@ I'm **Ewen**, a **Computer Science (AI) undergraduate at NUS**. I build AI syste
 - Designed **trace- and system-level evaluation on Arize**: LLM-as-judge against a golden dataset plus deterministic checks on quantitative outputs, replacing black-box debugging with automated regression detection.
 
 ### ML Research Intern, Meteorology — NEA / Climate Research (CCRS)
-**May 2026 – Jun 2026**
+**May 2026 – Jun 2026** · [AI-DOP repo](https://github.com/EwenCheung/AI-DOP)
 
 - Built an **Aardvark-inspired** end-to-end AI weather forecasting pipeline with **GNN encoders** and **Transformer latent rollouts**.
 - Cut forecast initialisation latency from **3–6 hours to 5 minutes** by replacing NWP data assimilation with an observation-to-forecast model.
@@ -146,14 +146,14 @@ Generates constraint-valid 4-year study plans in seconds: prerequisite enforceme
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ [SuperConfig](https://github.com/EwenCheung/SuperConfig)
-**AI Hackathon 2025 · Team of 3**
+### 🌦️ [AI-DOP: AI Weather Forecasting](https://github.com/EwenCheung/AI-DOP)
+**Research · NEA / CCRS internship**
 
-No-code platform that spins up a personalised AI business agent in under 3 minutes: specialised agents for scheduling, ticketing, knowledge-base search, and daily insights, served over Telegram.
+From-scratch reproduction of *Nature*'s Aardvark Weather: raw satellite and station observations → ViT encoder → residual processor (10-day rollout) → station decoder, trained with DDP on NSCC A100s.
 
-[Demo video](https://youtu.be/1rxBVJqMaF0?t=98)
+Evaluated against ECMWF HRES and GFS on WeatherBench2
 
-`FastAPI` `Amazon Bedrock` `React` `Telegram Bot API`
+`PyTorch` `ViT` `xarray` `PBS / HPC`
 
 </td>
 <td width="50%" valign="top">
