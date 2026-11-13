@@ -31,7 +31,7 @@
 
 I'm **Ewen**, a **Computer Science (AI) undergraduate at NUS**. I build AI systems that have to work in production: **RAG and text-to-SQL** over enterprise data, **multi-agent orchestration** with real permission boundaries, **evaluation frameworks** that catch regressions, and the **data pipelines** underneath all of it.
 
-- 🔭 **Now:** Private Equity Quantitative Strategist Intern at **GIC** — entity-resolution middleware, RAG insight pipelines, and agent evaluation on Arize
+- 🔭 **Now:** Private Equity Quantitative Strategist Intern at **GIC** — entity-resolution middleware, RAG insight pipelines, agent evaluation on Arize, and an **Anthropic IPO** valuation dashboard
 - 🚀 **Next:** Incoming **Data Warehouse Engineer Intern at TikTok** (January 2027)
 - 🏆 2x First Runner-Up and 2x Finalist in national hackathons · Best Project Award · Top 5% in NUS CS2109S
 - 💬 Ask me about agent harnesses, LLM evaluation, RAG, or Bayesian search
@@ -66,6 +66,7 @@ I'm **Ewen**, a **Computer Science (AI) undergraduate at NUS**. I build AI syste
 - Architected a **centralised entity-resolution middleware** for a PE data platform: BFS graph traversal deterministically maps company, fund, and deal IDs across **10+ internal tools**, giving AI agents one verified lookup with **100% mapping accuracy**.
 - Built a **RAG insight pipeline** over IC memos and GP reports that orchestrates internal quant tools, cutting analyst time-to-insight from **hours to under 5 minutes**.
 - Designed **trace- and system-level evaluation on Arize**: LLM-as-judge against a golden dataset plus deterministic checks on quantitative outputs, replacing black-box debugging with automated regression detection.
+- Built an **Anthropic IPO dashboard** for the deal team ahead of the listing: sourced **alternative-data signals** and built an **ARR forecast** to support valuation.
 
 ### ML Research Intern, Meteorology — NEA / Climate Research (CCRS)
 **May 2026 – Jun 2026** · [AI-DOP repo](https://github.com/EwenCheung/AI-DOP)
